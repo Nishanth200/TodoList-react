@@ -1,7 +1,5 @@
-# Website is live at : https://nishanth200.github.io/TodoList-react/
-
 # React + Vite
-
+<h2> Website is live at : https://nishanth200.github.io/TodoList-react/</h2>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
